@@ -9,7 +9,7 @@
   - EDA: KiCad 5 
 - Also learning/making wheels for:
   - App dev: React Native, Flutter
-  - More embedded & display techs, with scripting languages
+  - More embedded & display techs, with scripting languages on them
 
 ## My contribution ranking
 
