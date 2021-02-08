@@ -3,13 +3,14 @@
 - Yet another Mainland Chinese guy in Australia
 - Working for [SmartGuide](https://smartguide.com.au) in Melbourne, VIC
 - Often play with:
-  - Embedded ESP32, STM32 & some other weird chips/boards with Embedded Linux
-  - Backend: Node.js (TypeScript, Fastify, MongoDB...), C/C++ Golang, Rust
-  - Frontend: React, Vue
+  - Embedded: ESP32, STM32 & some other weird chips/boards with Embedded Linux
+  - Backend: Node.js (TypeScript, Fastify, MongoDB...), C/C++, Golang, Rust
+  - Web: React, Vue
+  - App: React Native (iOS/Android), Android native (Kotlin)
   - EDA: KiCad 5 
-- Also learning/making wheels for:
-  - App dev: React Native, Flutter
-  - More embedded & display techs, with scripting languages on them
+- Also learning:
+  - macOS/iOS related, e.g. Swift
+  - More embedded & display technologies
 
 ## My contribution ranking
 
