@@ -1,7 +1,8 @@
 ## Who am I
 
 - Yet another Mainland Chinese guy in Australia
-- Working for [SmartGuide](https://smartguide.com.au) in Melbourne, VIC
+- Working full time for [SmartGuide](https://smartguide.com.au) in Melbourne, VIC
+    - **I'm NOT open for finding new jobs, spammers please stop!! 暂不考虑更换工作，谢绝打扰**
 - Often play with:
   - Embedded/IoT: 
     - ESP32, STM32 (and those clones)
