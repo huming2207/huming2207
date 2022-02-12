@@ -2,12 +2,12 @@
 
 - Yet another Mainland Chinese guy in Australia
 - Working full time for [SmartGuide](https://smartguide.com.au) in Melbourne, VIC
-    - **I'm NOT open for finding new jobs, spammers please stop!! 暂不考虑更换工作，请勿打扰！**
+    - **I'm NOT open for finding new jobs! 暂不考虑更换工作，请勿打扰！**
 - Often play with:
   - Embedded/IoT: 
     - ESP32, STM32 (and those clones)
     - Other weird chips/boards with Embedded Linux
-    - Wireless RF (WiFi, LPWAN)
+    - Wireless RF (WiFi, LPWAN, Bluetooth LE)
     - Mass production automation
     - Display tech
   - EDA: KiCad 5/6, Eagle 
