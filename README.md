@@ -10,9 +10,9 @@
     - Wireless RF (WiFi, LPWAN, Bluetooth LE)
     - Mass production automation
     - Display tech
-  - EDA: KiCad 5/6, Eagle 
-  - Backend: Rust, C/C++, Golang, Node.js (TypeScript, Fastify, MongoDB...)
-  - Web: React, Vue
+  - EDA: KiCad, Eagle 
+  - Backend: Rust, C/C++, Golang, Node.js (TypeScript, Fastify, MongoDB, Prisma, native binding...)
+  - Web: React, WebAssembly
   - Mobile: React Native (iOS/Android), Android (Kotlin), Flutter
 - Also learning:
   - macOS/iOS related, e.g. Swift
