@@ -1,3 +1,8 @@
+## Disclaimer
+
+1. Unless if you are my employer, my projects created in this account do not have any warranty. Suggestions are always welcome, but use at your own risk.
+2. All the roadmaps mentioned in the project READMEs are not concrete commitments, unless if I've been paid to do so.
+
 ## Who am I
 
 - Yet another Mainland Chinese guy in Australia
